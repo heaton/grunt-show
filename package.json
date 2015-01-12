@@ -1,0 +1,13 @@
+{
+  "name": "grunt-show",
+  "version": "1.0.0",
+  "description": "Nothing",
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Heaton",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
